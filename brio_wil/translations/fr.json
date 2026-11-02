@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Éclairage de piscine BRiO WiL",
+        "description": "Entrez l'adresse IP du contrôleur BRiO WiL.",
+        "data": { "host": "Adresse IP", "port": "Port" }
+      }
+    },
+    "error": { "cannot_connect": "Impossible de se connecter au contrôleur ou de lire ses données." },
+    "abort": { "already_configured": "Ce contrôleur est déjà configuré." }
+  }
+}
