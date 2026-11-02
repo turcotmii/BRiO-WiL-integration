@@ -1,0 +1,11 @@
+{
+  "domain": "brio_wil",
+  "name": "CCEI BRiO WiL Pool Light",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/cRemE-fReSh/BRiO-WiL-Integration-for-Home-Assistant",
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "1.0.0"
+}

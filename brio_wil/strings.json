@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "BRiO WiL pool light",
+        "description": "Enter the IP address of the BRiO WiL controller.",
+        "data": { "host": "IP address", "port": "Port" }
+      }
+    },
+    "error": { "cannot_connect": "Could not connect to or read from the controller." },
+    "abort": { "already_configured": "This controller is already configured." }
+  }
+}
